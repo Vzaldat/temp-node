@@ -1,0 +1,30 @@
+Node js
+has no DOM like the browser
+and no window
+
+Apps are server side, as in there is no interactables
+
+there is a good file systems and there are versions of the app instead of fragmentation
+
+CommonJS is the module used in node js 
+
+Globals are some of the variables which you can be calling from everywhere, as name suggests
+
+
+Built In Modules are -
+OS
+PATH
+FS 
+HTTP
+
+2nd June, stopped at 1:10:46
+
+
+FS - Synchronusly, other, differences 
+
+sync, console log will be going line to line and there is a difference between the execution times, Imagine a user is going to run this program and then another user will not be able to use the app until it is fone
+
+async, console log will be going line to line here again but the difference now is that in the async, it offloads the reading process, and would be easier for the above example
+
+npm gives you everything, ppls code, your solution to a code etc etc
+
